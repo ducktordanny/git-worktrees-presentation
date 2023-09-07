@@ -1,0 +1,15 @@
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+  text-transform: none;
+}
+
+.reveal img {
+  max-height: 400px;
+  max-width: 500px;
+  border-radius: 8px;
+}
+
+.reveal code {
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+  padding: 0 8px;
+}
