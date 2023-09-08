@@ -20,6 +20,8 @@ Let's say you're working on a feature, and you have a branch `feat/a`.
 
 ![Stash, but...](./assets/stash.jpg)
 
+- Or have to run that `yarn install` every time when you get back to your branch.
+
 ----
 
 - And sometimes we can even mess up some things, and end up having:
