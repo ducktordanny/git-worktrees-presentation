@@ -1,6 +1,6 @@
-# Title
+# Git Magic
 
-I don't want to spoiler, so let's keep the name hidden.
+![Magic](./assets/you-are-a-harry.png)
 
 ---
 
@@ -39,3 +39,9 @@ Let's say you're working on a feature, and you have a branch `feat/a`.
 ## And what are those?
 
 "A git repository can support multiple working trees, allowing you to check out more than one branch at a time."
+
+---
+
+## Okay and how to use it?
+
+![Demo time](./assets/demo-time.png)
