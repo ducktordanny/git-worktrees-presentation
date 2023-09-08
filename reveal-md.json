@@ -2,5 +2,6 @@
   "separator": "\n---\n",
   "verticalSeparator": "\n----\n",
   "theme": "moon",
-  "css": "styles.css"
+  "css": "styles.css",
+  "assetsDir": "assets"
 }
